@@ -168,6 +168,7 @@ For main requests, the [srcache_fetch](#srcache_fetch) directive works at the en
 The workflow of this module looks like below:
 
 ![srcache flowchart](http://agentzh.org/misc/image/srcache-flowchart.png "srcache flowchart")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fsrcache-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fsrcache-nginx-module?ref=badge_shield)
 
 [Back to TOC](#table-of-contents)
 
@@ -1151,3 +1152,7 @@ See Also
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fsrcache-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fsrcache-nginx-module?ref=badge_large)
